@@ -22,7 +22,7 @@ public class BaseController {
 		}
 
 		// Spring uses InternalResourceViewResolver and return back index.jsp
-		reurn "index";
+		return "index";
 
 	}
 
